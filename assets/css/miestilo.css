@@ -1,0 +1,28 @@
+*{
+margin:0;
+}
+body{
+	background-image: url(../img/fondo.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.titulo{
+background-color: crimson;
+margin: 100px;
+}
+.parrafo{
+	text-align: center;
+	font-size: 1em;
+background-color: crimson;
+padding-top: 50px;
+padding-left: 10px;
+padding-bottom: 60px;
+padding-right: 300px;
+}
+footer{
+	text-align: justify-all;
+background-color: #5FCD58;
+margin: 0px 0px;
+border: 10px solid red;
+}
